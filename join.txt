@@ -1,0 +1,1 @@
+SELECT * FROM job_post c1,skill b1 where c1.skill=b1.sr_no
